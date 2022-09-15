@@ -1,0 +1,29 @@
+body {
+  color: #efefef;
+  background-color: #000;
+}
+
+.above-tf {
+  background-color: #000;
+}
+
+.toplayer-heading {
+  z-index: 1;
+  text-shadow: 2px 4px 8px rgba(0, 0, 0, 1);
+  padding: 30px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Rubik Puddles', Helvetica, Arial, sans-serif;
+  letter-spacing: 0.5rem;
+}
+
+.btn.btn-primary {
+  background-color: red;
+  border-color: yellow;
+}
+
+#droppie {
+  width: 100%;
+  height: 100%;
+}
